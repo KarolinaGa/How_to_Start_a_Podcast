@@ -2,8 +2,8 @@
 title: Editing
 layout: home
 nav_order: 5
-has_children: true
 ---
+
 When you’re done recording it’s time to edit. 
 
 This is Edit Toolbar, it allows you to cut, silence, and much more.

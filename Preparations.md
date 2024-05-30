@@ -2,8 +2,8 @@
 title: Introduction
 layout: default
 nav_order: 2
-has_children: true
 ---
+
 Once you've decided on the genre and format, it’s time to prepare for your first recording.
 
 Follow these steps to make sure it goes smoothly:

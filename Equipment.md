@@ -4,6 +4,7 @@ layout: home
 nav_order: 3
 has_children: true
 ---
+
 The most important thing you need to consider when you want to start recording is a microphone. When you know what you want to record and how much you want to spend, it’s easier to choose equipment. 
 
 Here is a list of things to think about when choosing a microphone: 
