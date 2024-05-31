@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: Preparations
 layout: default
 nav_order: 2
 ---
