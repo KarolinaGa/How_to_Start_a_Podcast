@@ -10,19 +10,12 @@ Download it here: Audacity ® | Free Audio editor, recorder, music making and mo
 
  
 
-Advantages:
+| Advantages| Disadvantages |
+| --------- |-------------- |
+| free      | No multitrack recording |
+| recording and editing tools | old-fashioned UI |
 
-free
 
-recording and editing tools 
-
- 
-
-Disadvantages:
-
-No multitrack recording
-
-old-fashioned UI
 
  
 

@@ -7,7 +7,7 @@ has_children: true
 
 It’s time to publish your podcast!
 
-Pick a podcast hosting platform- this is where you upload and keep your episodes (mp3 files).
+1. Pick a podcast hosting platform- this is where you upload and keep your episodes (mp3 files).
 
 Create an account 
 
