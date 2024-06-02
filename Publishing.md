@@ -4,6 +4,8 @@ layout: default
 nav_order: 6
 ---
 
+# Publishing
+
 It’s time to publish your podcast!
 
 1. Pick a podcast hosting platform- this is where you upload and keep your episodes (mp3 files).
