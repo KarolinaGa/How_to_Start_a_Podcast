@@ -34,6 +34,6 @@ Follow these steps to make sure it goes smoothly:
 
 5. ### Choose the editing software.
    
-   You need editing software to cut unwanted fragments and get rid of background noise. Here is a ranking of different audio editing software for different uses:[Audio editing sofware guide]( https://www.fiverr.com/resources/guides/music-audio/podcast-editing-software )
+   You need editing software to cut unwanted fragments and get rid of background noise. Here is a ranking of different audio editing software for different uses: [Audio editing sofware guide]( https://www.fiverr.com/resources/guides/music-audio/podcast-editing-software ).
 
 
