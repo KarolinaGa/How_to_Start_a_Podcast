@@ -48,17 +48,17 @@ Open Audacity
 
 (from left to right)
 
-- Pause: temporarily stops recording or playing
+- **Pause**: temporarily stops recording or playing
 
--  Play: playback from where the cursor is, you can also play a selected fragment
+- **Play**: playback from where the cursor is, you can also play a selected fragment
 
-- Stop: stops recording or playing the audio 
+- **Stop**: stops recording or playing the audio 
 
-- Skip to Start: skips to the beginning of the recording 
+- **Skip to Start**: skips to the beginning of the recording 
 
-- Skip to End: skips to the end of the recording 
+- **Skip to End**: skips to the end of the recording 
 
-- Record: starts recording 
+- **Record**: starts recording 
 
  
 

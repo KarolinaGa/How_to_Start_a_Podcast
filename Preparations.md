@@ -6,7 +6,8 @@ nav_order: 2
 
 # Preperations
 
-Once you've decided on the genre and format, it’s time to prepare for your first recording.
+Once you've decided on the [genre and format](Index.md)
+, it’s time to prepare for your first recording.
 
 Follow these steps to make sure it goes smoothly:
 
@@ -21,9 +22,7 @@ Based on the nature of your podcast, it is important to consider who your audien
 
 3. Write a script
 
-Writing a script helps you stay organized and shorten editing time. It gives you time to decide what you really want to convey to you audience. When preparing a podcast script you also have to keep you format in mind. Of course, you don't have to follow it to a tee, you should leave room for spontaneity. If you are good at speaking, a list of points to cover might be enough. 
-
-Read more [here](https://podcasters.spotify.com/resources/learn/create/how-to-write-podcast-scripts )
+Writing a script helps you stay organized and shorten editing time. It gives you time to decide what you really want to convey to you audience. When preparing a podcast script you also have to keep you format in mind. Of course, you don't have to follow it to a tee, you should leave room for spontaneity. If you are good at speaking, a list of points to cover might be enough. Read more [here](https://podcasters.spotify.com/resources/learn/create/how-to-write-podcast-scripts )
 
 
 4. Choose the recording environment
@@ -32,7 +31,7 @@ Choose a room without any loud appliances, you want to avoid background noise. M
 
 5. Choose the editing software
 
-Here is a ranking of different audio editing software for different uses: 
+You need editing software to cut unwanted fragments and get rid of background noise. Here is a ranking of different audio editing software for different uses: 
 [Audio editing sofware guide]( https://www.fiverr.com/resources/guides/music-audio/podcast-editing-software )
 
 
