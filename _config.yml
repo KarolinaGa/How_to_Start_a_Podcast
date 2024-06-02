@@ -5,10 +5,10 @@ theme: just-the-docs
 url: https://karolinaga.github.io/How_to_Start_a_Podcast/
 
 # Logo
-logo: "/img/How to start a podcast logo.jpg"
+logo: "/Biurko/Komunikacja techniczna/How_to_start_a_podcast/ How to start a podcast.jpg"
 
 #Favicon
-favicon_ico: "/img/How to start a podcast logo.jpg"
+favicon_ico: logo: "/Biurko/Komunikacja techniczna/How_to_start_a_podcast/ How to start a podcast.jpg"
 
 # Footer content
 # appears at the bottom of every page's main content
