@@ -25,37 +25,37 @@ Download it [here](https://www.audacityteam.org/download/)
 
 To start recording follow these simple steps: 
 
-1. ## Plug in your microphone** (plug your headphones into your Microphone if you want to use them) 
+1. ### Plug in your microphone** (plug your headphones into your Microphone if you want to use them).
 
-2. ## Open Audacity
+2. ### Open Audacity.
 
-3. ## Select the right microphone here: 
+3. ### Select the right microphone here: 
 ![Select Micrphone](assets/images/Audacity_microphone.jpeg)
 
 
 
-4. ## Select speaker here:
+4. ### Select speaker here:
 ![Select Speaker](assets/images/Audacity_speaker.jpeg)
 
  
-5. ## To record audio use Transport menu:
+5. ### To record audio use Transport menu:
 ![Transport Toolbar](assets/images/Audacity_Transport _Toolbar.jpg)
 
 
 
 (from left to right)
 
-- **Pause**: temporarily stops recording or playing
+- **Pause**: temporarily stops recording or playing.
 
-- **Play**: playback from where the cursor is, you can also play a selected fragment
+- **Play**: playback from where the cursor is, you can also play a selected fragment.
 
-- **Stop**: stops recording or playing the audio 
+- **Stop**: stops recording or playing the audio.
 
-- **Skip to Start**: skips to the beginning of the recording 
+- **Skip to Start**: skips to the beginning of the recording.
 
-- **Skip to End**: skips to the end of the recording 
+- **Skip to End**: skips to the end of the recording.
 
-- **Record**: starts recording 
+- **Record**: starts recording. 
 
  
 
@@ -63,7 +63,7 @@ When you’re ready press **Record**!
 
  
 
-6. ## When you're done recording don’t forget to save your episode.
+6. ### When you're done recording don’t forget to save your episode.
 
 To Save a file: 
 

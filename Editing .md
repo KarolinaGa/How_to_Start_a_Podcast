@@ -9,21 +9,21 @@ nav_order: 5
 
 When you’re done recording it’s time to edit. Because you chose Audacity you don't need any other software, you can start editing right away. It is best to start with noise reduction. 
 
-## Noise reduction:
+### Noise reduction and Edit Toolbar
 
 It is very useful, especially when you deal with background noise, such as buzzing, or humming. 
 
 Follow these five easy steps to reduce the annoying background noise: 
 
-1. Select the region of the waveform that contains noise
+1. Select the region of the waveform that contains noise.
 
-2. Go to Effects menu and select **Noise reduction** 
+2. Go to Effects menu and select **Noise reduction**.
 
-3. Click **Get the Noise Profile** ( the window closes automatically)
+3. Click **Get the Noise Profile** ( the window closes automatically).
 
-4. Go to **Effects** and select **Noise reduction** again 
+4. Go to **Effects** and select **Noise reduction** again.
 
-5. Click **OK**
+5. Click **OK**.
 
 ![Noise reduction](assets/images/Audacity_Noisereduction.gif)
 
@@ -35,34 +35,35 @@ When you complete noise reduction it's time to listen to your recording carefull
 
 (from left to right)
 
-- **Cut**:  removes the selected audio
+- **Cut**:  removes the selected audio.
 
-- **Copy**: copies the selected audio
+- **Copy**: copies the selected audio.
 
-- **Paste**: inserts clipboard content 
+- **Paste**: inserts clipboard content.
 
-- **Trim**: removes all the audio but the selection 
+- **Trim**: removes all the audio but the selection.
 
-- **Silence**: replaces selected audio with silence
+- **Silence**: replaces selected audio with silence.
 
-- **Undo**: reverses the last editing operation
+- **Undo**: reverses the last editing operation.
 
-- **Redo**: restores the last editing operation that was undone
+- **Redo**: restores the last editing operation that was undone.
 
-- **Zoom in**: zooms in to a higher magnification level
+- **Zoom in**: zooms in to a higher magnification level.
 
-- **Zoom out**: zooms out to a lower magnification level
+- **Zoom out**: zooms out to a lower magnification level.
 
-- **Zoom to Selection**: Zooms a selection region in or out so that it fits in the available horizontal window area
+- **Zoom to Selection**: Zooms a selection region in or out so that it fits in the available horizontal window area.
 
-- **Fit to Width**: Zooms in or out so that the entire audio of the project fits in the available horizontal track area
+- **Fit to Width**: Zooms in or out so that the entire audio of the project fits in the available horizontal track area.
 
-- **Zoom toggle**: zooms between two preset levels
-
-
+- **Zoom toggle**: zooms between two preset levels.
 
 
-## Exporting
+
+
+### Exporting
+
 Once you’re done editing, it’s time to export the MP3 file. It’s the format you need to upload your podcast to the hosting platform.
 
 To export an MP3 file follow these simple steps: 

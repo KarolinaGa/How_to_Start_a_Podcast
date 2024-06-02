@@ -26,7 +26,7 @@ Here is a list of things to think about when choosing a microphone:
 
 
 
-- ## Types of microphones: Condenser vs Dynamic
+- ### Types of microphones: Condenser vs Dynamic.
 
 They can come with either XLR or USB connections, but their characteristics and best use cases remain the same.
 
@@ -53,7 +53,7 @@ Dynamic microphones are less sensitive and more durable, they also tend to be ch
 
  
 
-- ## Connecting a microphone to a computer: USB vs XLR**
+- ### Connecting a microphone to a computer: USB vs XLR.
 
  
 
@@ -75,7 +75,7 @@ If you choose an XLR microphone, you will have to spend money on additional equi
 |Better sound quality | Confusing for beginners|
 |More recording flexibility | Usually more expensive|
 
-### Examples: 
+**Examples**: 
 
 - A condenser microphone with an XLR connection is often used in professional studio settings for high-fidelity recordings.
 

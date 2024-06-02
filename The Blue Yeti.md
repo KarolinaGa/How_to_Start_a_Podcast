@@ -22,7 +22,7 @@ Here are some of its advantages and disadvantages:
 
 
 
-## Polar Patterns 
+### Polar Patterns 
 
 If you want record a podcast, it’s important to learn about **Polar Patterns**. They are settings you choose based on the type of podcast you want to record and the recording environment.
 
