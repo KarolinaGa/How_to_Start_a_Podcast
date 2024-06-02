@@ -16,7 +16,7 @@ Download it [here](https://www.audacityteam.org/download/)
 | Advantages| Disadvantages |
 | --------- |-------------- |
 | Free      | No multitrack recording |
-| Recording and editing tools | old-fashioned UI |
+| Recording and editing tools | Old-fashioned UI |
 
 
 
@@ -28,18 +28,18 @@ Plug in your microphone (plug your headphones into your Microphone if you want t
 
 Open Audacity
 
-Select the right microphone here: 
+1. Select the right microphone here: 
 ![Select Micrphone](assets/images/Audacity_microphone.jpeg)
 
 
 
-Select speaker here:
+2. Select speaker here:
 ![Select Speaker](assets/images/Audacity_speaker.jpeg)
 
 
 
 
-To record audio use Transport menu:
+3. To record audio use Transport menu:
 ![Transport menu](assets/images/Audacity_Transport_Toolbar.jpg)
 
 
@@ -48,17 +48,17 @@ To record audio use Transport menu:
 
 (from left to right)
 
-- Pause - temporarily stops recording or playing
+- Pause: temporarily stops recording or playing
 
--  Play - playback from where the cursor is, you can also play a selected fragment
+-  Play: playback from where the cursor is, you can also play a selected fragment
 
-- Stop - stops recording or playing the audio 
+- Stop: stops recording or playing the audio 
 
-- Skip to Start - skips to the beginning of the recording 
+- Skip to Start: skips to the beginning of the recording 
 
-- Skip to End - skips to the end of the recording 
+- Skip to End: skips to the end of the recording 
 
-- Record - starts recording 
+- Record: starts recording 
 
  
 

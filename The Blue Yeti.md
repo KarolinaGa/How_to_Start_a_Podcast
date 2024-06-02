@@ -12,7 +12,7 @@ The Blue Yeti is one of the most popular microphones among podcasters and conten
 
 Here are some of its advantages and disadvantages:
 
-|Advantages: | Disadvantages: |
+|Advantages | Disadvantages |
 | ---------- | -------------- |
 |Versatility: multiple polar patterns | Sensitivity         |
 | Easy to use: it’s a USB microphone which means you don’t need any additional equipment |           Not portable |

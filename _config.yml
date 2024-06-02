@@ -9,6 +9,12 @@ assets:
   sources:
     - assets
 
+
+
+favicon_ico: "/assets/images/HTSPLogo.jpg"
+
+logo: "/assets/images/HTSPLogo.jpg"
+
 # Footer content
 # appears at the bottom of every page's main content
 

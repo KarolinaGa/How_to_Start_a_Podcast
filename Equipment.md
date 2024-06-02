@@ -13,11 +13,11 @@ Here is a list of things to think about when choosing a microphone:
 
 - Sensitivity of the microphone
 
-- Connecting the microphone to a computer 
+- Connecting the microphone to a computer
 
-- Podcast format 
+- Podcast format
 
-- Recording environment 
+- Recording environment
 
  
 
@@ -31,9 +31,9 @@ Condenser microphones tend to be more sensitive, which leads to more natural-sou
 
 | Advantages | Disadvantages |
 |------------|----------------|
-| Performs better with high-frequency sounds| Very sensitive. |
+| Performs better with high-frequency sounds| Very sensitive |
 | Overall sound quality is better | Requires external power source (in the case of traditional condenser microphones)|
-| | More suited for controlled environments, for example a studio. |
+| | More suited for controlled environments, for example a studio |
 
  
 
@@ -42,7 +42,7 @@ Dynamic microphones are less sensitive and more durable, they also tend to be ch
 | Advantages | Disadvantages |
 |------------|----------------|
 | Easy to use | Less sensitive |
-| Durable | Unsuitable for recording high-frequency sounds.|
+| Durable | Unsuitable for recording high-frequency sounds|
 | More forgiving | |
 | Affordable  | |
 | Versatile  ||

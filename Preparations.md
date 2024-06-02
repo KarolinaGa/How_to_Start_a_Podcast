@@ -15,7 +15,7 @@ Follow these steps to make sure it goes smoothly:
 You can read about some good practices [here](https://podcasters.spotify.com/resources/learn/create/podcast-name.)
 
 
-1. Do your research
+2. Do your research
 
 Based on the nature of your podcast, it is important to consider who your audience is. It helps decide how in-depth it should be and what might be the most interesting to your listeners.
 
