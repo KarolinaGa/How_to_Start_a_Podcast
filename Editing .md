@@ -5,6 +5,7 @@ nav_order: 5
 ---
 
 # Editing
+---
 
 When you’re done recording it’s time to edit. 
 

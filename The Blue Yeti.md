@@ -6,6 +6,7 @@ nav_order: 3
 ---
 
 # Blue Yeti Microphone 
+---
 
 The Blue Yeti is one of the most popular microphones among podcasters and content creators.
 
