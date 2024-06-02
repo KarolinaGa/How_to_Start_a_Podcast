@@ -5,6 +5,9 @@ theme: just-the-docs
 url: https://karolinaga.github.io/How_to_Start_a_Podcast/
 
 
+assets:
+  sources:
+    - How_to_start_a_podcat
 
 # Footer content
 # appears at the bottom of every page's main content
