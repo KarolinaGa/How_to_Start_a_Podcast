@@ -4,8 +4,8 @@ theme: just-the-docs
 
 url: https://karolinaga.github.io/How_to_Start_a_Podcast/
 
-# Logo
-logo: "/Biurko/Komunikacja techniczna/How_to_start_a_podcast/ How to start a podcast.jpg"
+
+! [Logo] ("/Biurko/Komunikacja techniczna/How_to_start_a_podcast/ How to start a podcast.jpg")
 
 #Favicon
 favicon_ico: logo: "/Biurko/Komunikacja techniczna/How_to_start_a_podcast/ How to start a podcast.jpg"
