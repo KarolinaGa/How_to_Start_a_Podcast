@@ -9,7 +9,8 @@ assets:
   sources:
     - assets
 
-
+aux_links:
+    - https://karolinaga.github.io/How_to_Start_a_Podcast/
 
 favicon_ico: "/assets/images/HTSPLogo.jpg"
 
