@@ -7,9 +7,28 @@ nav_order: 5
 # Editing
 ---
 
-When you’re done recording it’s time to edit. Because you chose Audacity you don't need any other software, you can start editing right away. Once you save your recording listen to it careful and make necessary changes (such copy or silence)  as you go.
+When you’re done recording it’s time to edit. Because you chose Audacity you don't need any other software, you can start editing right away. It is best to start with noise reduction. 
 
-This is **Edit Toolbar**, it allows you to cut, silence, and much more.
+## Noise reduction:
+
+It is very useful, especially when you deal with background noise, such as buzzing, or humming. 
+
+Follow these five easy steps to reduce the annoying background noise: 
+
+1. Select the region of the waveform that contains noise
+
+2. Go to Effects menu and select **Noise reduction** 
+
+3. Click **Get the Noise Profile** ( the window closes automatically)
+
+4. Go to **Effects** and select **Noise reduction** again 
+
+5. Click **OK**
+
+![Noise reduction](assets/images/Audacity_Noisereduction.gif)
+
+
+When you complete noise reduction it's time to listen to your recording carefully and make necessary changes using **Edit toolbar**. It allows you to cut, silence, and much more.
 
 ![Edit Toolbar](assets/images/Audacity_Edit_Toolbar.png)
 
@@ -41,23 +60,6 @@ This is **Edit Toolbar**, it allows you to cut, silence, and much more.
 - **Zoom toggle**: zooms between two preset levels
 
 
-## Noise reduction:
-
-It is very useful, especially when you deal with background noise, such as buzzing, or humming. 
-
-Follow these five easy steps to reduce the annoying background noise: 
-
-1. Select the region of the waveform that contains noise
-
-2. Go to Effects menu and select **Noise reduction** 
-
-3. Click **Get the Noise Profile** ( the window closes automatically)
-
-4. Go to **Effects** and select **Noise reduction** again 
-
-5. Click **OK**
-
-![Noise reduction](assets/images/Audacity_Noisereduction.gif)
 
 
 ## Exporting
