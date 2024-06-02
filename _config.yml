@@ -12,8 +12,9 @@ assets:
 aux_links:
     - https://karolinaga.github.io/How_to_Start_a_Podcast/
 
- # Enable opening external links in a new tab
-  opens_in_new_tab: true
+ 
+# Enable opening external links in a new tab
+opens_in_new_tab: true
 
 favicon_ico: "/assets/images/HTSPLogo.jpg"
 
