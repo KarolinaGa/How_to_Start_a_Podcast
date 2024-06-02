@@ -28,15 +28,19 @@ Plug in your microphone (plug your headphones into your Microphone if you want t
 Open Audacity
 
 Select the right microphone here: 
-![alt text](.jpg)
+![Select Micrphone](assets/images/Audacity_microphone.jpeg)
 
 
 
 Select speaker here:
+![Select Speaker](assets/images/Audacity_speaker.jpeg)
+
 
 
 
 To record audio use Transport menu:
+![Transport menu](assets/images/Audacity_Transport_Toolbar.jpg)
+
 
 
 
