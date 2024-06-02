@@ -13,6 +13,8 @@ Follow these steps to make sure it goes smoothly:
 
 1. Choose a name for your podcast 
    
+   The name of your podcast should be short a memorable. It's important that it reflects the content you make. Remember about SEO, using keywords helps potential listeners find you podcast. 
+   
    You can read about some good practices [here](https://podcasters.spotify.com/resources/learn/create/podcast-name.)
 
 
