@@ -10,19 +10,19 @@ The most important thing you need to consider when you want to start recording i
 
 Here is a list of things to think about when choosing a microphone: 
 
-Sensitivity of the microphone
+- Sensitivity of the microphone
 
-Connecting the microphone to a computer 
+- Connecting the microphone to a computer 
 
-Podcast format 
+- Podcast format 
 
-Recording environment 
+- Recording environment 
 
  
 
 Types of microphones: 
 
-Condenser vs Dynamic 
+- Condenser vs Dynamic 
 
  
 
@@ -46,6 +46,14 @@ More suited for controlled environments, for example a studio.
 
 Dynamic microphones are less sensitive and more durable, they also tend to be cheaper than their condenser counterparts. 
 
+| Advantages | Disadvantages |
+|------------|----------------|
+| Easy to use | Less sensitive |
+| Durable | Unsuitable for recording high-frequency sounds.|
+| More forgiving | |
+| Affordable  | |
+| Versatile  ||
+
 Advantages: 
 
 Easy to use 
@@ -66,19 +74,16 @@ Unsuitable for recording high-frequency sounds.
 
  
 
-USB vs XLR
+- USB vs XLR
 
  
 
 If you get a USB microphone, you don’t need any additional equipment, it’s a plug-and-play solution.
 
-Advantages: 
+| Advantages | Disadvantages |
+|------------|----------------|
+| Easy to use | Limited USB cable length |
 
-Easy to use
-
-Disadvantages: 
-
-Limited USB cable length
 
  
 
@@ -86,16 +91,11 @@ If you choose an XLR microphone, you will have to spend money on additional equi
 
  
 
-Advantages: 
+| Advantages | Disadvantages |
+|------------|----------------|
+|Better sound quality | Confusing for beginners|
+|More recording flexibility | Usually more expensive|
 
-Better sound quality
 
-More recording flexibility
-
-Disadvantages: 
-
-Confusing for beginners
-
-Usually more expensive
 
  
