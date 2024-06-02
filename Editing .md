@@ -7,7 +7,7 @@ nav_order: 5
 # Editing
 ---
 
-When you’re done recording it’s time to edit. 
+When you’re done recording it’s time to edit. Because you chose Audacity you don't need any other software, you can start editing right away. Once you save your recording listen to it careful and make necessary changes (such copy or silence)  as you go.
 
 This is **Edit Toolbar**, it allows you to cut, silence, and much more.
 
@@ -61,7 +61,7 @@ Follow these five easy steps to reduce the annoying background noise:
 
 
 ## Exporting
-Once you’re done editing, it’s time to export the MP3 file. It’s the format you need to upload your podcast on the hosting platform.
+Once you’re done editing, it’s time to export the MP3 file. It’s the format you need to upload your podcast to the hosting platform.
 
 To export an MP3 file follow these simple steps: 
 
