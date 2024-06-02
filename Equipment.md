@@ -24,11 +24,10 @@ Here is a list of things to think about when choosing a microphone:
 
 
 
-Types of microphones: 
 
-- ## Condenser vs Dynamic
+- ## Types of microphones: Condenser vs Dynamic
 
-
+They can come with either XLR or USB connections, but their characteristics and best use cases remain the same.
 
 Condenser microphones tend to be more sensitive, which leads to more natural-sounding recordings. The downside is that they might record background noise, which is why it is important where you record. All this makes them more suitable for studio settings. 
 

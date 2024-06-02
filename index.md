@@ -9,6 +9,7 @@ nav_order: 1
 
 This guide was created to help record, edit, and publish a podcast. Starting a podcast may seem daunting, especially to those who are not tech-savvy, and the aim is to make the process as straightforward as possible. The guide focuses on using one of the most popular microphones, The Blue Yeti, and the free audio editing software Audacity.
 
+## What is a podcast?
 A podcast is an audio program you can listen to at any time on any device that can be connected to the Internet. It is an amazing tool that can help you build a community, launch a business, or help people develop and learn new skills.
 
 There are many podcast genres, such as:
