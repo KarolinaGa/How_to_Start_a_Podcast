@@ -10,7 +10,7 @@ When you’re done recording it’s time to edit.
 
 This is Edit Toolbar, it allows you to cut, silence, and much more.
 
-![Edit Toolbar](Audacity_Edit_Toolbar.png) 
+![alt text](../images/Audacity_Edit_Toolbar.png)
 
 
 (from left to right)
