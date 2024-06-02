@@ -33,14 +33,12 @@ Here are some formats you can choose from:
 
 - Roundtable:  a roundtable podcast is a format where a group of people come together to discuss a particular topic in an informal and conversational manner. Typically, these podcasts feature multiple hosts or guests who share their insights, opinions, and experiences on the subject at hand. The discussion is often spontaneous and dynamic, resembling a casual conversation rather than a formal interview or structured presentation. 
 
-- Story-telling:  
-
 - Repurposed content: a repurposed content podcast is a type of podcast where existing content is adapted, reused, and presented in a new format or context. This content can come from various sources, such as articles, blog posts, videos, interviews. 
 
 
 
 Read more here:
 
-https://castos.com/podcast-format/ 
+[Podcast formats](https://castos.com/podcast-format/ )
+[Types of podcasts](https://www.brafton.com/blog/video-marketing/types-of-podcasts/)
 
-https://www.brafton.com/blog/video-marketing/types-of-podcasts/
