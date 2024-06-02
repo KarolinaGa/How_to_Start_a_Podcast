@@ -7,8 +7,7 @@ nav_order: 2
 # Preperations
 ---
 
-Once you've decided on the [genre and format](Index.md)
-, it’s time to prepare for your first recording.
+Once you've decided on the [genre and format](Index.md), it’s time to prepare for your first recording.
 
 Follow these steps to make sure it goes smoothly:
 
@@ -30,7 +29,7 @@ Follow these steps to make sure it goes smoothly:
 
 4. ### Choose the recording environment.
    
-   Choose a room without any loud appliances, you want to avoid background noise. Many people record in closets.  Walk-in closets are typically filled with clothes, which act as natural sound absorbers. It helps reduce echo and reverberation by absorbing sound waves rather than reflecting them. Once you pick a spot to test, test and test some more, you want to ensure the best sound quality possible.
+   Choose a room without any loud appliances, you want to avoid background noise. Many people record in closets.  Walk-in closets are typically filled with clothes, which act as natural sound absorbers. It helps reduce echo and reverberation by absorbing sound waves rather than reflecting them. Once you pick a spot test and test some more, you want to ensure the best sound quality possible.
 
 5. ### Choose the editing software.
    

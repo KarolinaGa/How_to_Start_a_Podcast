@@ -16,11 +16,6 @@ nav_order: 7
 
  ---
 
-### Polar Pattern 
- It is the three-dimensional space around a microphone, also known as a pickup pattern, where it is most sensitive to sound. It defines the microphone’s directional response, indicating which directions it picks up sound from and which directions it rejects. Different polar patterns are suited for different recording situations.
-
- ---
-
 ### Pop filter
  It is an accessory used in audio recording to reduce or eliminate the popping sounds caused by the fast-moving air when a person speaks or sings. These popping sounds, known as plosives, typically occur with certain consonants like "P," "B," "T," and "K." A pop filter helps to improve the overall sound quality by preventing these unwanted noises from being captured by the microphone.
 

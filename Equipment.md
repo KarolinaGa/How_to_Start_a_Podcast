@@ -8,7 +8,7 @@ has_toc: false
 # Equipment 
 ---
 
-The most important thing you need to consider when you want to start recording is a microphone. When you know what you want to record and how much you want to spend, it’s easier to choose equipment. 
+The most important thing you need to consider when you want to start recording is a microphone. When you know what you want to record and how much you want to spend, it’s easier to choose equipment. You need a microphone to ensure good quality audio and to sound professional. 
 
 Here is a list of things to think about when choosing a microphone: 
 
@@ -21,14 +21,13 @@ Here is a list of things to think about when choosing a microphone:
 - Recording environment
 
  
- There are two categories to choose from, type of the microphone and how you connect it to a computer. 
-
+There are three main factors you need to look at: the type of the microphone, how it connects to a computer, and polar patterns. 
 
 
 
 - ### Types of microphones: Condenser vs Dynamic.
 
-They can come with either XLR or USB connections, but their characteristics and best use cases remain the same.
+They can come with either XLR or USB connections, but their characteristics remain the same.
 
 Condenser microphones tend to be more sensitive, which leads to more natural-sounding recordings. The downside is that they might record background noise, which is why it is important where you record. All this makes them more suitable for studio settings. 
 
@@ -82,4 +81,6 @@ If you choose an XLR microphone, you will have to spend money on additional equi
 - A dynamic microphone with a USB connection might be used by podcasters who need a durable mic that connects directly to their computer.
 
 
- 
+
+- ### Polar Pattern 
+  Also known as a pickup pattern, it describes the sensitivity of a microphone to sound coming from different directions.  It defines the microphone’s directional response, indicating which directions it picks up sound from and which directions it rejects. Different polar patterns, such as omnidirectional or cardioid, are suited for different recording situations.

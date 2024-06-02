@@ -33,15 +33,15 @@ Once you choose the topic you want to talk about, it’s time to think about the
 
 Here are some formats you can choose from:
 
-- **Solo**: a single host delivers a monologue. Depending on the podcast it can be more scripted or casual. This format gives the host full control over the content.   
+- **Solo**: a single host delivers a monologue. Depending on the podcast it can be  scripted or casual. This format gives the host full control over the content.   
 
-- **Co-hosted/conversational**: a co-hosted podcast is a format where two or more hosts talk about various topics, creating a dynamic and interactive listening experience. This format is characterized by the natural back-and-forth between the hosts, they often share their perspectives, insights, and anecdotes, making the content relatable and entertaining for the audience.https://open.spotify.com/show/4VxRubY9xlwcKYCHbBLY03 
+- **Co-hosted/conversational**: a co-hosted podcast is a format where two or more hosts talk about various topics, creating a dynamic and interactive listening experience. This format is characterized by the natural back-and-forth between the hosts, they often share their perspectives, insights, and anecdotes, making the content relatable and entertaining for the audience.
 
 - **Interview**: an interview podcast is a podcast format where the host(s) conduct conversations with guests, usually focusing on the guests' expertise, experiences, stories, or insights on a specific topic. 
 
-- **Roundtable**:  a roundtable podcast is a format where a group of people come together to discuss a particular topic in an informal and conversational manner. Typically, these podcasts feature multiple hosts or guests who share their insights, opinions, and experiences on the subject at hand. The discussion is often spontaneous and dynamic, resembling a casual conversation rather than a formal interview or structured presentation. 
+- **Roundtable**:  a roundtable podcast is a format where a group of people come together to discuss a particular topic in an informal and conversational manner. Typically, these podcasts feature multiple hosts or guests who share their insights, opinions, and experiences on the subject at hand. The discussion is often spontaneous and dynamic, resembling a casual conversation.
 
-- **Repurposed content**: a repurposed content podcast is a type of podcast where existing content is adapted, reused, and presented in a new format or context. This content can come from various sources, such as articles, blog posts, videos, interviews. 
+- **Repurposed content**: a repurposed content podcast is a type of podcast where existing content is adapted, reused, and presented in a new format or context. This content can come from various sources, such as articles, blog posts, videos, or interviews. 
 
 
 
