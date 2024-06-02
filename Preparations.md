@@ -5,6 +5,7 @@ nav_order: 2
 ---
 
 # Preperations
+---
 
 Once you've decided on the [genre and format](Index.md)
 , it’s time to prepare for your first recording.

@@ -4,7 +4,7 @@ layout: default
 nav_order: 7
 ---
 # Glossary 
-
+---
 
 **Directory** - a platform or service that lists and organizes podcasts, making them searchable and accessible to listeners. Podcast directories allow users to discover, subscribe to, and listen to podcasts. Some well-known podcast directories include Apple Podcasts, Spotify, Google Podcasts, and Stitcher. These directories aggregate podcast RSS feeds, display episode information, and provide playback features to enhance the listener's experience.
 
