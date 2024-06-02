@@ -1,8 +1,9 @@
 ---
 title: Equipment
-layout: home
+layout: default
 nav_order: 3
 has_children: true
+has_toc: false
 ---
 
 The most important thing you need to consider when you want to start recording is a microphone. When you know what you want to record and how much you want to spend, it’s easier to choose equipment. 
