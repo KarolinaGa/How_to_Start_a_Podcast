@@ -2,7 +2,6 @@
 title: Publishing
 layout: default
 nav_order: 6
-has_children: true
 ---
 
 It’s time to publish your podcast!

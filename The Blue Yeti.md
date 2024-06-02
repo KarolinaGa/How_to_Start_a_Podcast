@@ -1,98 +1,49 @@
 ---
-title: Equipment: Choosing a microphone
+title: The Blue Yeti 
+layout: default
 parent: Equipment
 nav_order: 3
 ---
 
-The most important thing you need to consider when you want to start recording is a microphone. When you know what you want to record and how much you want to spend, it’s easier to choose equipment. 
+The Blue Yeti is one of the most popular microphones among podcasters and content creators.
 
-Here is a list of things to think about when choosing a microphone: 
+Here are some of its advantages and disadvantages:
 
-- Sensitivity of the microphone
+Advantages: 
 
-- Connecting the microphone to a computer 
+Versatility: multiple polar patterns
 
-- Podcast format 
+Easy to use: it’s a USB microphone which means you don’t need any additional equipment
 
-- Recording environment 
+Control: headphone volume, pattern selection, instant mute, and microphone gain controls
 
+Design: it comes with a built-in stand
 
+Disadvantages: 
 
-Types of microphones: 
+Sensitivity
 
-- Condenser vs Dynamic 
-
-
-
-Condenser microphones tend to be more sensitive, which leads to more natural-sounding recordings. The downside is that they might record background noise, which is why it is important where you record. All this makes them more suitable for studio settings. 
-
-Advantages: 
-
-Performs better with high-frequency sounds.
-
-Overall sound quality is better.
-
-Disadvantages:
-
-Very sensitive.
-
-Requires external power source (in the case of traditional condenser microphones).
-
-More suited for controlled environments, for example a studio.
+Not portable
 
 
 
-Dynamic microphones are less sensitive and more durable, they also tend to be cheaper than their condenser counterparts. 
+If you want record a podcast, it’s important to learn about Polar Patterns. They are settings you choose based on the type of podcast you want to record and the recording environment.
 
-Advantages: 
+The Blue Yeti offers four:
 
-Easy to use 
+Omnidirectional: picks up sound from all directions at the same time. It can be used for conference calls, roundtable discussions and interviews.
 
-Durable
+Bidirectional: picks up the sound from opposite sides of the microphone. It can be used to record interviews and duet recordings.
 
-More forgiving
+Cardioid: picks up the sound from the front and sides of the microphone. It can be used for podcasting.
 
-Affordable 
-
-Versatile 
-
-Disadvantages: 
-
-Less sensitive 
-
-Unsuitable for recording high-frequency sounds.
+Stereo: picks up sound from left and right. It can be used for live performances and field recordings.
 
 
 
-- USB vs XLR
+If you want to ensure great sound quality you might want to invest in some accessories such as Pop filter. 
 
+Read more here: https://www.thepodcasthost.com/equipment/blue-yeti-microphone-accesory-guide/ 
 
-
-If you get a USB microphone, you don’t need any additional equipment, it’s a plug-and-play solution.
-
-Advantages: 
-
-Easy to use
-
-Disadvantages: 
-
-Limited USB cable length
-
-
-
-If you choose an XLR microphone, you will have to spend money on additional equipment, such as a mixer or interface. That being said, it leaves you with a more professional setup that offers many possibilities; the interface or mixer acts as an external sound card. 
-
-
-
-Advantages: 
-
-Better sound quality
-
-More recording flexibility
-
-Disadvantages: 
-
-Confusing for beginners
-
-Usually more expensive
+https://riverside.fm/blog/best-blue-yeti-accessories 
 
