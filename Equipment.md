@@ -20,12 +20,15 @@ Here is a list of things to think about when choosing a microphone:
 - Recording environment
 
  
+ There are two categories to choose from, type of the microphone and how you connect it to a computer. 
+
+
 
 Types of microphones: 
 
-- **Condenser vs Dynamic** 
+- ## Condenser vs Dynamic
 
- 
+
 
 Condenser microphones tend to be more sensitive, which leads to more natural-sounding recordings. The downside is that they might record background noise, which is why it is important where you record. All this makes them more suitable for studio settings. 
 
@@ -50,7 +53,7 @@ Dynamic microphones are less sensitive and more durable, they also tend to be ch
 
  
 
-- **USB vs XLR**
+- ## Connecting a microphone to a computer: USB vs XLR**
 
  
 
@@ -72,6 +75,11 @@ If you choose an XLR microphone, you will have to spend money on additional equi
 |Better sound quality | Confusing for beginners|
 |More recording flexibility | Usually more expensive|
 
+### Examples: 
+
+- A condenser microphone with an XLR connection is often used in professional studio settings for high-fidelity recordings.
+
+- A dynamic microphone with a USB connection might be used by podcasters who need a durable mic that connects directly to their computer.
 
 
  
