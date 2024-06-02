@@ -8,14 +8,15 @@ nav_order: 4
 
 If you want to start a podcast, you need editing software. Audacity is an app that has been around for years and, what’s more important, is completely free.  It’s available on all systems and has everything you need to record and edit audio.
 
-Download it here: https://www.audacityteam.org/download/
+Download it [here](https://www.audacityteam.org/download/)
+
 
  
 
 | Advantages| Disadvantages |
 | --------- |-------------- |
-| free      | No multitrack recording |
-| recording and editing tools | old-fashioned UI |
+| Free      | No multitrack recording |
+| Recording and editing tools | old-fashioned UI |
 
 
 

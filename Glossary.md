@@ -5,6 +5,7 @@ nav_order: 7
 ---
 # Glossary 
 
+
 **Directory** - a platform or service that lists and organizes podcasts, making them searchable and accessible to listeners. Podcast directories allow users to discover, subscribe to, and listen to podcasts. Some well-known podcast directories include Apple Podcasts, Spotify, Google Podcasts, and Stitcher. These directories aggregate podcast RSS feeds, display episode information, and provide playback features to enhance the listener's experience.
 
 **RSS feed** -  An RSS (Really Simple Syndication) feed in podcasting is an XML file that contains all the necessary information about a podcast, including its episodes, descriptions, and media files. This feed allows podcast directories and apps to automatically update and distribute new episodes to subscribers. By subscribing to the RSS feed, listeners receive new episodes directly in their podcast apps as soon as they are released.
