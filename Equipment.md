@@ -23,25 +23,17 @@ Here is a list of things to think about when choosing a microphone:
 
 Types of microphones: 
 
-- Condenser vs Dynamic 
+- **Condenser vs Dynamic** 
 
  
 
 Condenser microphones tend to be more sensitive, which leads to more natural-sounding recordings. The downside is that they might record background noise, which is why it is important where you record. All this makes them more suitable for studio settings. 
 
-Advantages: 
-
-Performs better with high-frequency sounds.
-
-Overall sound quality is better.
-
-Disadvantages:
-
-Very sensitive.
-
-Requires external power source (in the case of traditional condenser microphones).
-
-More suited for controlled environments, for example a studio.
+| Advantages | Disadvantages |
+|------------|----------------|
+| Performs better with high-frequency sounds| Very sensitive. |
+| Overall sound quality is better | Requires external power source (in the case of traditional condenser microphones)|
+| | More suited for controlled environments, for example a studio. |
 
  
 
@@ -55,27 +47,10 @@ Dynamic microphones are less sensitive and more durable, they also tend to be ch
 | Affordable  | |
 | Versatile  ||
 
-Advantages: 
-
-Easy to use 
-
-Durable
-
-More forgiving
-
-Affordable 
-
-Versatile 
-
-Disadvantages: 
-
-Less sensitive 
-
-Unsuitable for recording high-frequency sounds.
 
  
 
-- USB vs XLR
+- **USB vs XLR**
 
  
 
