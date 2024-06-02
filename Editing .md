@@ -40,6 +40,24 @@ This is Edit Toolbar, it allows you to cut, silence, and much more.
 - Zoom toggle- zooms between two preset levels
 
 
+Noise reduction:
+
+It is very useful, especially when you deal with background noise, such as buzzing, or humming. 
+
+Follow these five easy steps to reduce the annoying background noise: 
+
+1. Select the region of the waveform that contains noise
+
+2. Go to Effects menu and select Noise reduction 
+
+3. Click Get the Noise Profile ( the window closes automatically)
+
+4. Go to Effects and select Noise reduction again 
+
+5. Click OK
+
+![Noise reduction](assets/images/Audacity_Noisereduction.gif)
+
 
 Once you’re done editing, it’s time to export the MP3 file. It’s the format you need to upload your podcast on the hosting platform.
 
