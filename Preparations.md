@@ -27,8 +27,9 @@ Follow these steps to make sure it goes smoothly:
    Writing a script helps you stay organized and shorten editing time. It gives you time to decide what you really want to convey to you audience. When preparing a podcast script you also have to keep you format in mind. Of course, you don't have to follow it to a tee, you should leave room for spontaneity. If you are good at speaking, a list of points to cover might be enough. Read more [here](https://podcasters.spotify.com/resources/learn/create/how-to-write-podcast-scripts )
 
 
-4. ### Choose a microphone 
-   If you want to record a good-quality podcast, you need a recording device. Choosing a microphone is not an easy task; if you need help with that, this guide will do it. 
+4. ### Choose the right microphone  
+   
+   If you want to record a good-quality podcast, you need a recording device tailored to your needs. Choosing a microphone is not an easy task. If you need help with that, this guide is for you. 
 
 5. ### Choose the recording environment.
    
