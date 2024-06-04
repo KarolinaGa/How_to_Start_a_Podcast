@@ -25,7 +25,7 @@ There are three main factors you need to look at: the type of the microphone, ho
 
 
 
-- ### Types of microphones: Condenser vs Dynamic.
+### Types of microphones: Condenser vs Dynamic.
 
 They can come with either XLR or USB connections, but their characteristics remain the same.
 
@@ -52,7 +52,7 @@ Dynamic microphones are less sensitive and more durable, they also tend to be ch
 
  
 
-- ### Connecting a microphone to a computer: USB vs XLR.
+### Connecting a microphone to a computer: USB vs XLR.
 
  
 
@@ -82,6 +82,5 @@ If you choose an XLR microphone, you will have to spend money on additional equi
 
 
 
-- ### Polar Pattern 
+ ### Polar Pattern 
   Also known as a pickup pattern, it describes the sensitivity of a microphone to sound coming from different directions.  It defines the microphone’s directional response, indicating which directions it picks up sound from and which directions it rejects. Different polar patterns, such as omnidirectional or cardioid, are suited for different recording situations.
-  
