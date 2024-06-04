@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 ---
 
-# How to Start a Podcast 
+# How to Start a Podcast: a beginner's guide 
 ---
 
 
