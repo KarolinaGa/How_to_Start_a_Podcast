@@ -7,7 +7,7 @@ nav_order: 6
 # Publishing
 ---
 
-Now that you’ve recorded and edited your first episode, it’s time to publish it! If you want people to find your podcast, you have to publish it on podcast [directories] (Glossary.html) such as Spotify or Google Podcast. To do that, you have to choose a hosting platform, create a Podcast [RSS feed](Glossary.html), and submit it to directories. 
+Now that you’ve recorded and edited your first episode, it’s time to publish it! If you want people to find your podcast, you have to publish it on podcast [directories](Glossary.html) such as Spotify or Google Podcast. To do that, you have to choose a hosting platform, create a Podcast [RSS feed](Glossary.html), and submit it to directories. 
 
 Follow these steps to publish you first episode:
 
