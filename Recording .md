@@ -25,7 +25,7 @@ Download it [here](https://www.audacityteam.org/download/)
 
 To start recording follow these simple steps: 
 
-1. ### Plug in your microphone** (plug your headphones into your Microphone if you want to use them).
+1. ### Plug in your microphone (plug your headphones into your Microphone if you want to use them).
 
 2. ### Open Audacity.
 

@@ -81,6 +81,6 @@ If you choose an XLR microphone, you will have to spend money on additional equi
 - A dynamic microphone with a USB connection might be used by podcasters who need a durable mic that connects directly to their computer.
 
 
+### Polar Patterns 
 
- ###  Polar Pattern 
-  Also known as a pickup pattern, it describes the sensitivity of a microphone to sound coming from different directions.  It defines the microphone’s directional response, indicating which directions it picks up sound from and which directions it rejects. Different polar patterns, such as omnidirectional or cardioid, are suited for different recording situations.
+Also known as a pickup pattern, it describes the sensitivity of a microphone to sound coming from different directions.  It defines the microphone’s directional response, indicating which directions it picks up sound from and which directions it rejects. Different polar patterns, such as omnidirectional or cardioid, are suited for different recording situations.
