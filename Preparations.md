@@ -29,7 +29,7 @@ Follow these steps to make sure it goes smoothly:
 
 4. ### Choose the right microphone.
    
-   If you want to record a good-quality podcast, you need a recording device tailored to your needs. Choosing a microphone is not an easy task. If you need help with that, this guide is for you. Go to [Equipment](Glossary.html) to read more.
+   If you want to record a good-quality podcast, you need a recording device tailored to your needs. Choosing a microphone is not an easy task. If you need help with that, this guide is for you. Go to [Equipment](Equipment.html) to read more.
 
 5. ### Choose the recording environment.
    
