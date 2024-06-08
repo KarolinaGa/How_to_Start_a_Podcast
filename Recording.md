@@ -59,11 +59,11 @@ To start recording follow these simple steps:
 
  
 
-When you’re ready press **Record**!
+When you’re ready, press **Record**!
 
  
 
-6. ### When you're done recording don’t forget to save your episode.
+6. ### When you're done recording, don’t forget to save your episode.
 
 To Save a file: 
 
