@@ -15,9 +15,9 @@ Follow these steps to publish you first episode:
     This is where you upload and keep your episodes (mp3 files). There are many hosting platforms to choose from. 
 
     Things to consider when choosing a hosting platform:
-    - storage limits 
-    - price ( some are free)
-    - Monetization Options, such as ad integration
+    - Storage limits 
+    - Price (some are free)
+    - Monetization Options (such as ad integration)
   
     Read more [here](https://zapier.com/blog/podcast-hosting/?utm_source=google&utm_medium=cpc&utm_campaign=gaw-row-nua-evr-search_nb_desktop_blog_prospecting_developing1_developing2-ads&utm_adgroup=DSA-BestApps-Form_Builder&utm_term=&utm_content=9067413&utm_ads_campaign_id=19622168382&utm_ads_adgroup_id=157760468828&utm_ads_ad_id=659058345731&gad_source=1&gclid=CjwKCAjwo6GyBhBwEiwAzQTmc4LIfvdSGiaQnkoAvUcRvkJN9cUmU360Z4KF34RDRaGoSsBnaOtVbxoCbHQQAvD_BwE )
 
