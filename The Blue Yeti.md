@@ -40,7 +40,7 @@ The Blue Yeti offers four:
 
 
 
-If you want to ensure great sound quality you might want to invest in some accessories such as [Pop filter](Glossary.md). 
+If you want to ensure great sound quality you might want to invest in some accessories such as [Pop filter](Glossary.html). 
 
 Read more about the microphone and its accesories [here](https://www.thepodcasthost.com/equipment/blue-yeti-microphone-accesory-guide/) and [here](https://riverside.fm/blog/best-blue-yeti-accessories )
  
