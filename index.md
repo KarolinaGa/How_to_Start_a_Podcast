@@ -45,5 +45,5 @@ Here are some formats you can choose from:
 
 
 
-Read more about podcast formats [here](https://castos.com/podcast-format/ ) and  [here](https://www.brafton.com/blog/video-marketing/types-of-podcasts/)
+Read more about podcast formats [here](https://castos.com/podcast-format/ ) and  [here](https://www.brafton.com/blog/video-marketing/types-of-podcasts/).
 
