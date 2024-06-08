@@ -31,11 +31,11 @@ Follow these steps to make sure it goes smoothly:
    
    If you want to record a good-quality podcast, you need a recording device tailored to your needs. Choosing a microphone is not an easy task. If you need help with that, this guide is for you. Go to [Equipment](Equipment.html) to read more.
 
-5. ### Choose the recording environment.
+5. ### Choose the best recording environment.
    
    Choose a room without any loud appliances, you want to avoid background noise. Many people record in closets.  Walk-in closets are typically filled with clothes, which act as natural sound absorbers. It helps reduce echo and reverberation by absorbing sound waves rather than reflecting them. Once you pick a spot test and test some more, you want to ensure the best sound quality possible.
 
-6. ### Choose the editing software.
+6. ### Choose editing software.
    
    You need editing software to cut unwanted fragments and get rid of background noise. Here is a ranking of different audio editing software for different uses: [Audio editing sofware guide]( https://www.fiverr.com/resources/guides/music-audio/podcast-editing-software ).
 
