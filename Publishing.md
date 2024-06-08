@@ -19,7 +19,7 @@ Follow these steps to publish you first episode:
     - Price (some are free)
     - Monetization Options (such as ad integration)
   
-    Read more [here](https://zapier.com/blog/podcast-hosting/?utm_source=google&utm_medium=cpc&utm_campaign=gaw-row-nua-evr-search_nb_desktop_blog_prospecting_developing1_developing2-ads&utm_adgroup=DSA-BestApps-Form_Builder&utm_term=&utm_content=9067413&utm_ads_campaign_id=19622168382&utm_ads_adgroup_id=157760468828&utm_ads_ad_id=659058345731&gad_source=1&gclid=CjwKCAjwo6GyBhBwEiwAzQTmc4LIfvdSGiaQnkoAvUcRvkJN9cUmU360Z4KF34RDRaGoSsBnaOtVbxoCbHQQAvD_BwE )
+    Read more [here](https://zapier.com/blog/podcast-hosting/?utm_source=google&utm_medium=cpc&utm_campaign=gaw-row-nua-evr-search_nb_desktop_blog_prospecting_developing1_developing2-ads&utm_adgroup=DSA-BestApps-Form_Builder&utm_term=&utm_content=9067413&utm_ads_campaign_id=19622168382&utm_ads_adgroup_id=157760468828&utm_ads_ad_id=659058345731&gad_source=1&gclid=CjwKCAjwo6GyBhBwEiwAzQTmc4LIfvdSGiaQnkoAvUcRvkJN9cUmU360Z4KF34RDRaGoSsBnaOtVbxoCbHQQAvD_BwE ).
 
 2. ### Create an account.
 
@@ -31,7 +31,7 @@ Follow these steps to publish you first episode:
    
    Episode titles and descriptions are very important. It is crucial as they helps attract listeners, a good title should pick listener’s interest. When naming an episode think about keywords potential listeners might search for and keep in mind that the title you choose should convey what your episode is about. 
    
-   Read more [here]( https://podcasters.spotify.com/resources/learn/create/podcast-episode-descriptions) and [here]( https://www.thepodcasthost.com/planning/podcast-episode-titles/ )
+   Read more [here]( https://podcasters.spotify.com/resources/learn/create/podcast-episode-descriptions) and [here]( https://www.thepodcasthost.com/planning/podcast-episode-titles/ ).
 
 
 5. ### Submit your podcast to directories.
