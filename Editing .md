@@ -68,12 +68,12 @@ Once you’re done editing, it’s time to export the MP3 file. It’s the forma
 
 To export an MP3 file follow these simple steps: 
 
-1. Go to File menu
+1. Go to File menu.
 
-2. Select **Export**
+2. Select **Export**.
 
-3. Select **Export to MP3**
+3. Select **Export to MP3**.
 
-4. Name the file 
+4. Name the file.
 
-5. Click **Export**
+5. Click **Export**.
